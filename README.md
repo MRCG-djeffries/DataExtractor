@@ -1,11 +1,11 @@
 # OpenClinica Data Extraction tool
-Extracts OC XML downlaods to a visual table builder in MS Access and allows exports to relational databases (MS Access, SQLite and SQLserevr).<br/>
+Extracts OC XML downlaods to a visual table builder in MS Access and allows exports to relational databases (MS Access, SQLite and SQLserver).<br/>
 No installation required, runs from an MS Access database.
 <br/>
 ## DataExtractor folder
 Contains the MS Access database (DataExtractor.accdb), jar library and a test XML OpenClinica download.<br/>
 Export all three to same folder and run DataExtractor.accdb <br/>
-Full details and example in the user guide. 
+Full details and examples in the user guide. 
 <br/>
 ## Validation Folder
 The user gudie describes how to validate the tool for any OpenClinica CRF. <br/>

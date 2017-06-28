@@ -3,8 +3,8 @@ Extracts OC XML downloads to a visual table builder in MS Access and allows expo
 No installation required, runs from an MS Access database.
 <br/>
 ## DataExtractor folder
-Contains the MS Access database (DataExtractor.accdb), jar library and a test XML OpenClinica download.<br/>
-Export all three to same folder and run DataExtractor.accdb <br/>
+Contains the MS Access database (DataExtractor.accdb), an executable jar file (OC_ACCESS_EXTRACTOR_V1.0.jar) and two test XML OpenClinica extractions.<br/>
+Export the MS Access application and the jar file to same folder and run DataExtractor.accdb <br/>
 Full details and examples in the user guide. 
 <br/>
 ## Validation Folder

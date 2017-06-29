@@ -9,8 +9,8 @@ Full details and examples in the user guide.
 <br/>
 ## Validation Folder
 The user gudie describes how to validate the tool for any OpenClinica CRF. <br/>
-Example files are provided. 
+Example files are provided.
 <br/>
-### DataExtractorProject Folder
+### DataExtractorJavaProject Folder
 Contains the java source code for the XML extraction library using Virtual Token Descriptor (http://vtd-xml.sourceforge.net/). <br/>
 A compiled version of the code is contained in DataExtractor/OC_ACCESS_EXTRACTOR_V1.0.jar
